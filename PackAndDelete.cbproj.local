@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.526,C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete_mod.cpp=C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,D:\docs\Programming\git-repo\mdi\Pack-Delete\PackAndDelete_mod.cpp=D:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete origin\PackAndDelete_mod.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,D:\docs\Programming\git-repo\mdi\Pack-Delete\PackAndDelete_mod.dfm=D:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete origin\PackAndDelete_mod.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=C:\Documents and Settings\maslennikov_di\Мои документы\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\tst.h=C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\PackAndDelete.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,=C:\Documents and Settings\maslennikov_di\Мои документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\tst.cpp=C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\PackAndDelete.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\Documents and Settings\maslennikov_di\Мои документы\RAD Studio\Projects\Unit1.cpp=C:\Qt\mdi\Programming\Rad Studio\Tests\tst.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.915,C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete.cbproj=C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete_pr.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,=C:\docs\DropBox\DB_s\Programming\PackAndDelete\Profiling\AQtimeModule1.aqt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,D:\docs\Programming\git-repo\mdi\Pack-Delete\PackAndDelete_mod.h=D:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete origin\PackAndDelete_mod.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,D:\docs\Programming\git-repo\mdi\Pack-Delete\PackAndDelete.cbproj=D:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete origin\PackAndDelete.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete_mod.h=C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.802,=C:\docs\Agama\mdi\Programming\Rad Studio\Tests\_8_200_88800008.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\Documents and Settings\maslennikov_di\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\Qt\mdi\Programming\Rad Studio\Tests\tst.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\tst_pr.cbproj=C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\PackAndDelete_pr.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete_mod.dfm=C:\docs\Programming\RAD Studio XE\C++\Development\AgamaStr_Server\PackAndDelete\PackAndDelete.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\tst.dfm=C:\docs\Programming\RAD Studio\XE\AgamaStr_Server\PackAndDelete\PackAndDelete.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\Documents and Settings\maslennikov_di\Мои документы\RAD Studio\Projects\Unit1.h=C:\Qt\mdi\Programming\Rad Studio\Tests\tst.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,C:\Documents and Settings\maslennikov_di\Мои документы\RAD Studio\Projects\Project1.cbproj=C:\Qt\mdi\Programming\Rad Studio\Tests\tst_pr.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
